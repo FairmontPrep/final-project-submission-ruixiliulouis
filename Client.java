@@ -13,7 +13,7 @@ public class Client {
     };
 
     public static void main(String[] args) {
-        findAndPrintPath();                // ← only one line in main!
+        findAndPrintPath();
     }
 
     private static void findAndPrintPath() {
